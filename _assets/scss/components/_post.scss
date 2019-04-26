@@ -198,6 +198,27 @@
       margin-bottom: 0;
     }
   }
+  
+  .footnotes {
+    
+    p {
+    margin-bottom: 0rem;
+    
+    font-size: $font-xsmall;
+    
+    @media (min-width: $mq-small) {
+      font-size: $font-xsmall;
+    }
+    }
+    
+    ol > li:before {
+      font-size: $font-xsmall;
+    }
+  }
+  
+  figcaption {
+      font-size: $font-xsmall;
+  }
 
   blockquote {
     p {
@@ -209,6 +230,18 @@
     color: $color-black;
     border-bottom: 2px solid $color-grey;
     box-shadow: inset 0 -3px 0 $color-grey;
+    
+    &.footnote {
+      color: $color-black;
+      border-bottom: none;
+      box-shadow: none;
+    }
+
+    &.reversefootnote {
+      color: $color-black;
+      border-bottom: none;
+      box-shadow: none;
+    }
   }
 
   hr {
