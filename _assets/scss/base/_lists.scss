@@ -59,4 +59,12 @@ ol {
       counter-increment: li;
     }
   }
+  
+  ul {
+    @extend %no-list-style;
+
+    & > li:before {
+      content: "–";
+    }
+  }
 }
