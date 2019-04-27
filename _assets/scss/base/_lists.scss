@@ -60,7 +60,7 @@ ol {
     }
   }
   
-  ul {
+  ul:not(.post__social) {
     @extend %no-list-style;
 
     & > li:before {
