@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-author: Jules Schoonman
-image: /assets/images/spiker/00a.jpg
+author: 
+image: 
 ---
 This is an about page
