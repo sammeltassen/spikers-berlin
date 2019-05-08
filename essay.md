@@ -90,6 +90,8 @@ On the engravings, the city’s public monuments are staged in a way comparable 
 ## Conclusion
 The engravings in Spiker’s guide still cast a spell on contemporary Berlin. Even after most of the buildings have disappeared in their original form, the standpoints, frames and compositions continue to play a role in the reconstruction of the city centre after the fall of the Berlin Wall. Images of buildings have erupted on large canvasses stretched against temporary scaffoldings, like Schinkel’s Bauakademie or the Stadtschloss before its current reconstruction. In light of the former, is it a coincidence that the single reconstructed corner of the Bauakademie actually used to house George Gropius’s publisher , where Spiker’s guide was put together? It is at least symbolic for the fact that after almost two centuries, the guide itself has come to serve as an ideal image for the reconstruction of the city. This ideal, however, is grounded in the unique historical conditions of the years following the Napoleonic Wars and the establishment of new visual, if not always political, regimes.
 
+_This essay resulted from a presentation at the 2016 [Books and the City](http://booksandthecity.nl) conference in Maastricht, The Netherlands, organised by Maastricht University and the Jan van Eyck academie._
+
 ## Footnotes
 [^1]: H. G. Pundt, “K. F. Schinkel’s Environmental Planning of Central Berlin”, _Journal of the Society of Architectural Historians_ 26, no. 2 (1967): 114–30.
 [^2]: S. Giedion, _Spätbarocker und romantischer Klassizismus_ (Munich: F. Bruckmann, 1922), 156–62.
