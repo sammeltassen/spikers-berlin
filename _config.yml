@@ -1,5 +1,5 @@
 # Site/SEO settings
-email: 
+email: jules.schoonman@gmail.com
 baseurl: ""
 permalink: /:title/
 google_analytics: 
@@ -7,10 +7,10 @@ google_analytics:
 name: Samuel Heinrich Spiker
 title: Spiker's Berlin
 description: >
-  Digital edition of Samuel's Spiker 1833 Guide to Berlin
+  Digital edition of Samuel Spiker's 1833 Berlin und seine Umgebungen im neunzehnten Jahrhundert
 url: 
 twitter_username: sammeltassen
-default_img: 
+default_img: /assets/img/spiker/02a.jpg
 social:
   - name: twitter
     url: https://twitter.com/sammeltassen
@@ -64,6 +64,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
+  - jekyll-email-protect
 compress_html:
   clippings: all
   comments: all
