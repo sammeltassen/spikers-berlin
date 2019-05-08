@@ -10,7 +10,7 @@ description: >
   Digital edition of Samuel Spiker's 1833 Berlin und seine Umgebungen im neunzehnten Jahrhundert
 url: https://spikers-berlin.netlify.com
 twitter_username: sammeltassen
-default_img: /assets/img/spiker/02a.jpg
+default_img: /assets/images/spiker/02a.jpg
 social:
   - name: twitter
     url: https://twitter.com/sammeltassen
