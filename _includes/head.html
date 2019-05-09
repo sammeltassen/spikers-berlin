@@ -24,7 +24,7 @@
 {% if site.twitter_username %}
   <meta name="twitter:creator" content="@{{ site.twitter_username }}">
 {% endif %}
-<meta property="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
+<meta property="twitter:image" content="{% if page.thumb %}{{ page.thumb | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
 <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | prepend: site.baseurl }}">
 
